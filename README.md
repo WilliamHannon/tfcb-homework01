@@ -1,4 +1,5 @@
-##Very Important Ant Research
+## Very Important Ant Research
+
 ---
 
 This directory contains some of the **most important** ant research of the decade.
@@ -15,8 +16,11 @@ I am certain to finally be admitted into the Royal Society of Myrmecological Res
 Just take a look at this blurb from [Myrmecological News](https://myrmecologicalnews.org/cms/):
 >He's the genius of the century, just take a look at those pictures of Ants!!
 
-###Revolutionary Results
+### Revolutionary Results
+
 | Species | Does it Bite? |
-| --- | --- |
+| ----------- | ----------- |
 | *Rhytidoponera metallica* | Yep |
 | *Camponotus darwinii* | Nope |
+
+
